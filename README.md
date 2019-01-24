@@ -1,7 +1,7 @@
 # Portfolio
-* [General Info] (#general-info)
-* [Technologies] (#technologies)
-* [Status] (#status)
+* [General Info](#general-info)
+* [Technologies](#technologies)
+* [Status](#status)
 
 # General info
 - Portfolio
