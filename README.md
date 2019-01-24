@@ -19,7 +19,8 @@
 - The rest of the page is on the way
 
 ## Sources
-This site is inspired by Samuraj Programowania tutorial (https://www.youtube.com/watch?v=oEgG3pHIlfo)
+- This site is inspired by Samuraj Programowania tutorial (https://www.youtube.com/watch?v=oEgG3pHIlfo)
+- README inspired by (@adam-p) (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#html)
 
 ## About me
 - e-mail adress: aleksandergorczyk@gmail.com
