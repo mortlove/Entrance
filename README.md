@@ -1,4 +1,4 @@
-# Portfolio
+# Home Page
 * [General Info](#general-info)
 * [Technologies](#technologies)
 * [Status](#status)
