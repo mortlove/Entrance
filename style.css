@@ -6,8 +6,7 @@
 }
         
 header {
-    background: url('photo_38883_20150623.jpg') center,
-        url('sunny.png') center;
+    background: url('photo_38883_20150623.jpg') center;
     background-size: cover;
     height: 100vh;
     width: 100vw;
