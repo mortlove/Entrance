@@ -1,11 +1,12 @@
-# Home Page
+# Entrance
+## Home Page
 * [General Info](#general-info)
 * [Technologies](#technologies)
 * [Status](#status)
 * [Sources](#sources)
 * [About me](#about-me)
 
-# General Info
+## General Info
 - Learning coding
 - First portfolio
 
